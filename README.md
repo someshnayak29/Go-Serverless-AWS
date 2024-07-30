@@ -1,6 +1,6 @@
 # Golang-Serverless-Project
 
-API Gateway + DynamoDB + Lambda Comlpete serveless stack
+### API Gateway + DynamoDB + Lambda Comlpete serveless stack
 
 GET all Users Command : curl -X GET <URL>
 
